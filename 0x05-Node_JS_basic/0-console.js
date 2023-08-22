@@ -3,8 +3,7 @@
  * @param {string} message. The message to display.
  * @author Ossai Cherish Nneka <https://github.com/Cherish13>
  */
-
-functiondisplayMessage = (message) => {
+function displayMessage = (message) => {
 console.log(message);
 };
 
