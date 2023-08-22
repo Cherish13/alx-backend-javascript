@@ -4,8 +4,8 @@
  * @author Ossai Cherish Nneka <https://github.com/Cherish13>
  */
 
-functiondisplayMessage(message){
+functiondisplayMessage = (message) => {
 console.log(message);
-}
+};
 
-module.exports = displayMessage
+module.exports = displayMessage;
